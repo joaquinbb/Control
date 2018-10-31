@@ -1,0 +1,10 @@
+usar bzr para control de versiones
+
+
+bzr whoami "Joaquin Berenguer <chimo.berenguer@gmail.com>"
+
+se crea el directorio del  proyecto y se pone:
+	
+bzr init-repo Control
+
+bzr init Control/trunk
